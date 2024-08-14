@@ -6,6 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+
 public class JDBC_Example {
 	static final String DB_URL="jdbc:mysql://127.0.0.1:3306/book";
 	static final String USER="root";
